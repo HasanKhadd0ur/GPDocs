@@ -1,8 +1,6 @@
 # GraduationProjectDocs
 the reports, diagrams and references for my 5tth year project 
 ----
-dataset 
-https://drive.google.com/drive/folders/1aw7P-Q1xGA7akn6wKSUthiKjnlRGtq9D?usp=drive_link
 
 System Design
 
